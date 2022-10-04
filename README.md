@@ -1,4 +1,4 @@
-# Assignment_MLmodel_Reation_CP 
+# Assignment_MLmodel_Reatation_CP 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A Streamlit web application for the analysis Reatation CP Dataset
 
